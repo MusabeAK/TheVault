@@ -6,16 +6,16 @@
 
 <p>The Vault System is a system that is embedded into a vault to integrate with the lock system and improve the security of a safe.</p>
 
-<p>This system will provide secure access control, monitoring, and management features for protecting valuable assets.</p>
+<p>This system provides secure access control, monitoring, and management features for protecting valuable assets.</p>
 
-<p>The system will be able to utilize the powerful ATmega2560 Pro Arduino Board as its core, this system will also integrate sensors like Gas,
+<p>The system utilizes the powerful ATmega2560 Pro Arduino Board as its core, this system also integrate sensors like Gas,
   Temperature, Sound, location  to detect potential fire hazards, change in temperature, noise fluctuations and movements around the vault and 
   control access to people’s belongs using a keypad.</p>
 
 <h2>Access Management</h2>
 <p>This is the main function of this vault system, and it is achieved with the help of a door system.</p>
 <p>The door system contains:</p>
- &nbsp;&nbsp;&nbsp;&nbsp;<span>a motor which will be used to lock and unlock the door.</span><br>
+ &nbsp;&nbsp;&nbsp;&nbsp;<span>a motor which is used to lock and unlock the door.</span><br>
  &nbsp;&nbsp;&nbsp;&nbsp;<span>a keypad to enter pin</span><br>
  &nbsp;&nbsp;&nbsp;&nbsp;<span>the LCD screen for display and LED lights (yellow, blue and red)</span><br><br>
 <p>At default state, the LCD displays “The Vault” for 5 seconds, then “ENTER PIN”</p>
@@ -27,10 +27,10 @@
 <p>This is done until the smoke is no longer detected.</p>
 
 <h2>Data Management</h2>
-<p>Temperature, Humidity and Sound levels are some of the Key data that is detected by the system through the respective sensors.</p>
+<p>Temperature, Humidity and Sound levels are some of the Key data that are detected by the system through the respective sensors.</p>
 <p>The Data is then sent to Things Speak where it is monitored from.</p>
 
-
+<br>
 <h2>Group Members</h2>
 
 <body>
